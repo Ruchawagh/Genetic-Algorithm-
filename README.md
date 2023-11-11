@@ -27,10 +27,10 @@ To fine the least cost route of set of n cities so that each city visits exactly
 
 
 11)Method that has the 'cycle' logic.
-    1. For each two children in the children array, makes a random swap between
+    -For each two children in the children array, makes a random swap between
         the two children until there's no duplicated element
-    2. Mutate the children that were generated
-    3. Adds the children in the population array
+    - Mutate the children that were generated
+    -Adds the children in the population array
 
 
 
