@@ -1,9 +1,9 @@
 # Genetic-Algorithm Travelling SalesMan Problem
 To fine the least cost route of set of n cities so that each city visits exactly once
 # STEPS TO EXCEUTE ALGORITHM
-#1)Initialize the paramaters like Population, No of city , Tour size
-#2)Generate the first population (random  values to generate  chromosomes which appends to population size)
-#3) Method to verify if the number is already in the path
+1)Initialize the paramaters like Population, No of city , Tour size.
+2)Generate the first population (random  values to generate  chromosomes which appends to population size.
+3) Method to verify if the number is already in the path
 4)Generates the X and Y arrays which represents the distances in the x and y axis used to calculate the identity matrix(dicadade) in the fitness function.
 5)makes the swap between 2 cities in the path with a 5% chance of mutation
 6) Generates the Tour matrix, which is the same matrix as the population,but with the first column duplicated at the end of it, afterall, the travelleralways have to arrive at the same place of where he started.
