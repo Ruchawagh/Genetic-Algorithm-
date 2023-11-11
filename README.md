@@ -46,12 +46,6 @@ To fine the least cost route of set of n cities so that each city visits exactly
 12) Generates the fitness values for the last population
    2)Show th path graph
    3)show the fitness value over the no of iterations.
-
-
-
-
-
-
     ![graph 2](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/305b50fd-603e-4f2c-b8b0-e700a59da263)
 
 
