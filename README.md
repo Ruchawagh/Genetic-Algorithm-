@@ -1,10 +1,11 @@
 # Genetic-Algorithm Travelling SalesMan Problem
 To fine the least cost route of set of n cities so that each city visits exactly once
 # STEPS TO EXCEUTE ALGORITHM
-1.Initialize the paramaters like Population, No of city , Tour size.
 
 
-2.Generate the first population (random  values to generate  chromosomes which appends to population size.
+1)Initialize the paramaters like Population, No of city , Tour size.
+
+2)Generate the first population (random  values to generate  chromosomes which appends to population size.
 
 3) Method to verify if the number is already in the path
 
@@ -21,11 +22,11 @@ To fine the least cost route of set of n cities so that each city visits exactly
 9)Performs the roulette function, generating two arrays with 5 parents each, which will be used later to do the cycle process
 
 
-10) Method used in the cycle method to see if there's any duplicated city.
+10)Method used in the cycle method to see if there's any duplicated city.
 
 
 
-11) Method that has the 'cycle' logic.
+11)Method that has the 'cycle' logic.
     1. For each two children in the children array, makes a random swap between
         the two children until there's no duplicated element
     2. Mutate the children that were generated
@@ -33,6 +34,6 @@ To fine the least cost route of set of n cities so that each city visits exactly
 
 
 
-12)1) Generates the fitness values for the last population
+12) Generates the fitness values for the last population
    2)Show th path graph
    3)show the fitness value over the no of iterations.
