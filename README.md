@@ -1,4 +1,4 @@
-# Genetic-Algorithm Travelling SalesMan Problem
+
 To fine the least cost route of set of n cities so that each city visits exactly once
 # STEPS TO EXCEUTE ALGORITHM
 
@@ -48,7 +48,9 @@ To fine the least cost route of set of n cities so that each city visits exactly
    3)show the fitness value over the no of iterations.
     ![graph 2](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/305b50fd-603e-4f2c-b8b0-e700a59da263)
 
+<img width="524" alt="output" src="https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/a0e02027-e6a2-4fbf-aae2-88f9694deeeb">
 
+# Genetic-Algorithm Travelling SalesMan Problem
 ![graph 1](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/e0c718be-d894-4853-945c-1b46cd035331)
 
 
