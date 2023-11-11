@@ -32,11 +32,6 @@ To fine the least cost route of set of n cities so that each city visits exactly
 
 
 10)Method used in the cycle method to see if there's any duplicated city.
-![graph 2](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/305b50fd-603e-4f2c-b8b0-e700a59da263)
-
-
-![graph 1](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/e0c718be-d894-4853-945c-1b46cd035331)
-
 
 
 11)Method that has the 'cycle' logic.
@@ -51,3 +46,15 @@ To fine the least cost route of set of n cities so that each city visits exactly
 12) Generates the fitness values for the last population
    2)Show th path graph
    3)show the fitness value over the no of iterations.
+
+
+
+
+
+
+    ![graph 2](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/305b50fd-603e-4f2c-b8b0-e700a59da263)
+
+
+![graph 1](https://github.com/Ruchawagh/Genetic-Algorithm-/assets/99780429/e0c718be-d894-4853-945c-1b46cd035331)
+
+
